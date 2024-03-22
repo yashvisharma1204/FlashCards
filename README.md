@@ -1,5 +1,5 @@
 # Flashcard App using Tkinter and Python
-<img width="674" alt="Screenshot 2024-03-10 121232" src="https://github.com/yashvisharma1204/FlashCards/assets/137611141/5d708393-207f-4fb0-aafb-c5299aee10b3">
+<img width="1000" alt="Screenshot 2024-03-10 121232" src="https://github.com/yashvisharma1204/FlashCards/assets/137611141/5d708393-207f-4fb0-aafb-c5299aee10b3">
 
 Dive into efficient learning with our Flashcard App built using Tkinter and Python! 📚 Flip through flashcards, mark words, and enhance your vocabulary effortlessly.
 
